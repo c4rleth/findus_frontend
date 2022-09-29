@@ -1,0 +1,271 @@
+.login-register-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-register-i-phone8plus-login-signup {
+  width: 100%;
+  height: 649px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 410px;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  justify-content: flex-end;
+  background-color: rgba(243, 243, 243, 1);
+}
+.login-register-input-email {
+  top: 212px;
+  left: 0px;
+  right: 0px;
+  width: 294px;
+  height: 53px;
+  margin: auto;
+  position: absolute;
+  border-width: 0px;
+  border-radius: 17px;
+  background-color: rgba(217, 217, 217, 1);
+}
+.login-register-input-senha {
+  top: 280px;
+  left: 0px;
+  right: 0px;
+  width: 294px;
+  height: 53px;
+  margin: auto;
+  position: absolute;
+  border-width: 0px;
+  border-radius: 17px;
+  background-color: rgba(217, 217, 217, 1);
+}
+.login-register-button-entrar {
+  top: 390px;
+  left: 60px;
+  color: var(--dl-color-gray-white);
+  width: 295px;
+  height: 53px;
+  position: absolute;
+  font-size: 20px;
+  box-shadow: 0px 4px 5px 0px #d4d4d4;
+  font-style: normal;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Ubuntu;
+  font-weight: 700;
+  line-height: 2;
+  border-width: 0px;
+  border-radius: 17px;
+  text-decoration: none;
+  background-color: #F9CF6C;
+}
+
+.login-register-text {
+  top: 346px;
+  left: 70px;
+  color: rgba(0, 0, 0, 0.71);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.login-register-text02 {
+  top: 484px;
+  left: 161px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.login-register-line1 {
+  top: 554px;
+  left: 32px;
+  width: 117px;
+  height: 0px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.login-register-line2 {
+  top: 554px;
+  left: 265px;
+  width: 117px;
+  height: 0px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.login-register-text04 {
+  left: 65px;
+  color: rgb(0, 0, 0);
+  bottom: 40px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.login-register-text05 {
+  color: #000000;
+  text-decoration: none;
+}
+.login-register-text06 {
+  text-decoration: underline;
+}
+.login-register-text08 {
+  top: 44px;
+  left: 85px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.login-register-logo2 {
+  top: 101px;
+  left: 145px;
+  width: 123px;
+  height: 83px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.login-register-button-facebook {
+  left: 157px;
+  width: 101px;
+  bottom: 74px;
+  height: 47px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 12px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-register-icons8facebooknovo481 {
+  top: 6px;
+  left: 34px;
+  width: 34px;
+  height: 35px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.login-register-button-google {
+  left: 41px;
+  width: 101px;
+  bottom: 74px;
+  height: 47px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 12px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 250, 250, 1);
+}
+.login-register-icons8googlelogo481 {
+  top: 6px;
+  left: 33px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.login-register-button-apple {
+  right: 36px;
+  width: 101px;
+  bottom: 74px;
+  height: 47px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 12px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 253, 253, 1);
+}
+.login-register-icons8macos501 {
+  top: 7px;
+  left: 36px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}

@@ -1,0 +1,198 @@
+.select-profile-type-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.select-profile-type-i-phone8plus-signuptypeaccount {
+  width: 100%;
+  height: 649px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 410px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-color: rgba(243, 243, 243, 1);
+}
+.select-profile-type-text {
+  top: 70px;
+  left: 44px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.select-profile-type-buttonback {
+  right: 36px;
+  width: 142px;
+  bottom: 31px;
+  height: 57px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  margin-right: 0;
+  border-radius: 35px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  background-image: linear-gradient(180deg, rgba(249, 207, 108, 1) 100%, rgba(79, 78, 78, 1) 100%);
+}
+.select-profile-type-text02 {
+  top: 17px;
+  left: 58px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.select-profile-type-vector {
+  top: 22px;
+  left: 20px;
+  width: 16px;
+  height: 14px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.select-profile-type-button-normal-profile {
+  top: 134px;
+  left: 35px;
+  width: 339px;
+  height: 143px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 8px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  background-image: linear-gradient(180deg, rgba(249, 207, 108, 1) 100%, rgba(79, 78, 78, 1) 100%);
+}
+.select-profile-type-text04 {
+  top: 28px;
+  left: 28px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.select-profile-type-text06 {
+  top: 67px;
+  left: 29px;
+  color: rgba(0, 0, 0, 1);
+  width: 300px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.select-profile-type-button-enterprise-profile {
+  top: 312px;
+  left: 35px;
+  width: 339px;
+  height: 143px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 8px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  background-image: linear-gradient(180deg, rgba(249, 207, 108, 1) 100%, rgba(79, 78, 78, 1) 100%);
+}
+.select-profile-type-text08 {
+  top: 27px;
+  left: 28px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.select-profile-type-text10 {
+  top: 66px;
+  left: 29px;
+  color: rgba(0, 0, 0, 1);
+  width: 275px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

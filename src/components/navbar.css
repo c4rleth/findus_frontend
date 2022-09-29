@@ -1,0 +1,126 @@
+.navbar-navbar {
+  width: 410px;
+  height: 75px;
+  display: flex;
+  padding: 0;
+  position: fixed;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(0, 0, 0, 0.2);
+  border-width: 1px;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(243, 243, 243, 1);
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.navbar-navlink {
+  display: contents;
+}
+.navbar-user {
+  top: 26px;
+  left: 346px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.navbar-navlink1 {
+  display: contents;
+}
+.navbar-messagecircle {
+  top: 26px;
+  left: 113px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.navbar-navlink2 {
+  display: contents;
+}
+.navbar-plussquare {
+  top: 26px;
+  left: 44px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.navbar-navlink3 {
+  display: contents;
+}
+.navbar-tablerjumprope {
+  top: 26px;
+  left: 277px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.navbar-navlink4 {
+  display: contents;
+}
+.navbar-buttonsearch-event {
+  top: 13px;
+  left: 182px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+  background-color: transparent;
+}
+.navbar-ellipse11 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.navbar-search {
+  top: 13px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.navbar-root-class-name {
+  left: 0px;
+  bottom: 0px;
+  position: absolute;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.navbar-root-class-name1 {
+  align-self: flex-end;
+}
+.navbar-root-class-name2 {
+  align-self: flex-end;
+}
+.navbar-root-class-name3 {
+  align-self: flex-end;
+}

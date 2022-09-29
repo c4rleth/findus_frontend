@@ -1,0 +1,94 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-i-phone8plus-intro {
+  width: 100%;
+  height: 649px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 410px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-size: cover;
+  /*background-image: url("/playground_assets/rectangle205763-7hwr-500w.png");*/
+}
+.home-button-comecar {
+  left: 90px;
+  width: 240px;
+  bottom: 93px;
+  height: 61px;
+  position: absolute;
+  font-size: 20px;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Ubuntu;
+  line-height: 2.2;
+  border-width: 0px;
+  border-radius: 17px;
+  text-decoration: none;
+  background-color: rgba(249, 207, 108, 1);
+}
+.home-button-comecar:hover {
+  color: var(--dl-color-gray-white);
+}
+.home-text {
+  font-style: normal;
+  font-weight: 700;
+}
+.home-text04 {
+  top: 288px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text09 {
+  top: 371px;
+  left: 55px;
+  color: rgba(0, 0, 0, 1);
+  width: 303px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-people1 {
+  top: 21px;
+  left: -14px;
+  width: 437px;
+  height: 272px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}

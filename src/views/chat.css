@@ -1,0 +1,340 @@
+.chat-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.chat-i-phone8plus-chat {
+  width: 100%;
+  height: 649px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 410px;
+  box-sizing: border-box;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  justify-content: center;
+  background-color: rgba(243, 243, 243, 1);
+}
+.chat-inputchat {
+  left: 0px;
+  width: 414.001220703125px;
+  bottom: 15px;
+  height: 52px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.chat-mic {
+  top: 20px;
+  left: 25px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.chat-textinput {
+  top: 11px;
+  left: 69px;
+  width: 234px;
+  height: 41px;
+  position: absolute;
+  font-size: 14px;
+  font-family: Ubuntu;
+  border-width: 0px;
+  border-radius: 35px;
+  background-color: #D9D9D9;
+}
+.chat-line4 {
+  top: 0px;
+  left: 0px;
+  width: 414px;
+  height: 0px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.chat-image {
+  top: 20px;
+  left: 360px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.chat-smile {
+  top: 20px;
+  left: 315px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.chat-ellipse16 {
+  top: 128px;
+  left: 22px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.chat-ellipse17 {
+  top: 215px;
+  left: 349px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.chat-rectangle28 {
+  top: 128px;
+  left: 73px;
+  width: 195px;
+  height: 74px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 17px;
+  margin-bottom: 0;
+}
+.chat-rectangle29 {
+  top: 215px;
+  left: 148px;
+  width: 190px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 17px;
+  margin-bottom: 0;
+}
+.chat-text {
+  top: 227px;
+  left: 164px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.chat-text01 {
+  font-weight: 400;
+}
+.chat-text03 {
+  top: 240px;
+  left: 302px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.chat-text05 {
+  top: 184px;
+  left: 233px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.chat-text07 {
+  top: 140px;
+  left: 91px;
+  color: rgba(249, 207, 108, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.chat-text09 {
+  top: 168px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.chat-header {
+  top: 33px;
+  left: 28px;
+  width: 356px;
+  height: 36px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.chat-navlink {
+  display: contents;
+}
+.chat-buttonback {
+  top: 1px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+  background-color: transparent;
+}
+.chat-arrowleft {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.chat-text11 {
+  top: 4px;
+  left: 96px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.chat-buttonconfig {
+  top: 0px;
+  left: 332px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.chat-morehorizontal {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.chat-text13 {
+  top: 25px;
+  left: 145px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

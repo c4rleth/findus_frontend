@@ -1,0 +1,411 @@
+.profile-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.profile-i-phone8plus-profile {
+  width: 100%;
+  height: 649px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 410px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-color: rgba(243, 243, 243, 1);
+}
+.profile-bxscertification {
+  top: 266px;
+  left: 148px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.profile-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+.profile-ellipse10 {
+  top: 151px;
+  left: 33px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(243, 243, 243, 1);
+  border-style: solid;
+  border-width: 4px;
+  margin-right: 0;
+  border-radius: var(--dl-radius-radius-radius4);
+  margin-bottom: 0;
+}
+.profile-text {
+  top: 266px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.profile-text02 {
+  top: 294px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.profile-button-edit {
+  top: 226px;
+  left: 345px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.profile-ellipse13 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.profile-edit {
+  top: 9px;
+  left: 9px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.profile-text04 {
+  top: 329px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.profile-info-profile {
+  top: 368px;
+  left: 23px;
+  width: 362px;
+  height: 90px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 17px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 1);
+}
+.profile-text06 {
+  top: 26px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profile-text11 {
+  top: 26px;
+  left: 137px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profile-text16 {
+  top: 27px;
+  left: 263px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profile-post {
+  top: 491.5px;
+  left: -0.0006103515625px;
+  width: 409px;
+  height: 117.5px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(0, 0, 0, 0.3);
+  border-style: solid;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  border-top-width: 1px;
+}
+.profile-line3 {
+  top: 0px;
+  left: 0px;
+  width: 414px;
+  height: 0px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.profile-line4 {
+  top: 117.5px;
+  left: 0.0006103515625px;
+  width: 414px;
+  height: 0px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.profile-text21 {
+  top: 18.5px;
+  left: 23.0006103515625px;
+  color: rgba(0, 0, 0, 0.5);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profile-text23 {
+  top: 52.5px;
+  left: 23.0006103515625px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profile-heart {
+  top: 81.5px;
+  left: 290.0006103515625px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.profile-messagesquare {
+  top: 81.5px;
+  left: 355.0006103515625px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.profile-text25 {
+  top: 85.5px;
+  left: 319.0006103515625px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profile-text26 {
+  top: 85.5px;
+  left: 385.0006103515625px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profile-button-config {
+  top: 16px;
+  left: 347px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.profile-ellipse14 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.profile-settings {
+  top: 8px;
+  left: 8px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.profile-button-add {
+  top: 226px;
+  left: 290px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.profile-ellipse15 {
+  top: 0px;
+  left: 0px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.profile-plussquare {
+  top: 8px;
+  left: 8px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+}

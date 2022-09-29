@@ -1,0 +1,311 @@
+.search-events-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.search-events-i-phone8plus-search-events {
+  width: 100%;
+  height: 649px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 410px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-size: cover;
+  /*background-image: url("/playground_assets/20e81e01-fb32-45ba-a716-9fac6e8dd407-t7w1-500w.undefined");*/
+}
+.search-events-cardinfo {
+  top: 157px;
+  left: 101px;
+  width: 219px;
+  height: 139px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.search-events-rectangle10 {
+  top: 0px;
+  left: 0px;
+  width: 219px;
+  height: 139px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: border-box;
+}
+.search-events-text {
+  top: 19px;
+  left: 27px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-events-text02 {
+  top: 103px;
+  left: 84px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.search-events-text04 {
+  top: 50px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 700;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-events-text05 {
+  font-weight: 700;
+}
+.search-events-text06 {
+  font-weight: 400;
+}
+.search-events-text10 {
+  font-weight: 700;
+}
+.search-events-eventcricle {
+  top: 304px;
+  left: 201px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(249, 207, 108, 1);
+  border-style: solid;
+  border-width: 3px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.search-events-scrollbar {
+  top: 667px;
+  left: 15px;
+  width: 303px;
+  height: 52px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.search-events-buttonfind {
+  top: -84px;
+  left: 2px;
+  width: 140px;
+  height: 52px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 35px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(249, 207, 108, 1);
+}
+.search-events-text15 {
+  top: 14px;
+  left: 44px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Ubuntu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-events-vector {
+  top: 18px;
+  left: 15px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.search-events-buttonfilter {
+  top: -84px;
+  right: -2px;
+  width: 140px;
+  height: 52px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 35px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(249, 207, 108, 1);
+}
+.search-events-text17 {
+  top: 14px;
+  left: 52px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-events-vector1 {
+  top: 18px;
+  left: 22px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.search-events-buttonconfig {
+  top: 25px;
+  left: 339px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.search-events-ellipse12 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.search-events-settings {
+  top: 13px;
+  left: 13px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.search-events-buttonback {
+  top: 29px;
+  left: 30px;
+  width: 84px;
+  height: 42px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.search-events-rectangle11 {
+  top: 0px;
+  left: 0px;
+  width: 84px;
+  height: 42px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.search-events-vector2 {
+  top: 14px;
+  left: 33px;
+  width: 18px;
+  height: 14px;
+  position: absolute;
+  box-sizing: border-box;
+}
