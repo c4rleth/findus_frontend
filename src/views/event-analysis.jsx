@@ -16,10 +16,15 @@ const EventAnalysis = (props) => {
       </Helmet>
       <div className="event-analysis-i-phone8plus-analytics-enterprise-user">
         <div className="event-analysis-card">
-          <div className="event-analysis-cardheader">
+          <div className="event-analysis-cardheader1">
             <span className="event-analysis-text">
               <span>Alcance por Município</span>
             </span>
+            <img
+            alt="Icons1203"
+            src="/playground_assets/icons1203-bnm.svg"
+            className="event-analysis-icons"
+          />
           </div>
           <div className="event-analysis-cardbody">
             <div className="event-analysis-frame91">
@@ -48,18 +53,8 @@ const EventAnalysis = (props) => {
               </div>
             </div>
           </div>
-          <div className="event-analysis-cardfooter">
-            <span className="event-analysis-text12 bodybody1">
-              <span>
-                Minim dolor in amet nulla laboris enim dolore consequatt.
-              </span>
-            </span>
-          </div>
-          <img
-            alt="Icons1203"
-            src="/playground_assets/icons1203-bnm.svg"
-            className="event-analysis-icons"
-          />
+          
+          
         </div>
         <div className="event-analysis-header">
           <span className="event-analysis-text14">
@@ -89,6 +84,7 @@ const EventAnalysis = (props) => {
                   <img
                     alt="Vector1191"
                     src="/playground_assets/vector1191-xfjk.svg"
+                    className="event-analysis-vector"
                   />
                 </div>
               </div>

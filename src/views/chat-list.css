@@ -34,7 +34,7 @@
 }
 .chat-list-search {
   top: 127px;
-  left: 58px;
+  left: 330px;
   width: 14px;
   height: 14px;
   position: absolute;
@@ -119,6 +119,7 @@
   flex-direction: row;
   justify-content: flex-start;
   background-color: rgba(217, 217, 217, 1);
+  cursor: pointer;
 }
 .chat-list-text04 {
   top: 26px;
@@ -198,6 +199,7 @@
   flex-direction: row;
   justify-content: flex-start;
   background-color: rgba(217, 217, 217, 1);
+  cursor: pointer;
 }
 .chat-list-text10 {
   top: 26px;

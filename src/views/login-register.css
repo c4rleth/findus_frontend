@@ -83,6 +83,8 @@
   margin-right: 0;
   margin-bottom: 0;
   text-decoration: none;
+  cursor: pointer;
+  
 }
 .login-register-text02 {
   top: 484px;
@@ -146,6 +148,7 @@
 }
 .login-register-text06 {
   text-decoration: underline;
+  cursor: pointer;
 }
 .login-register-text08 {
   top: 44px;
@@ -197,6 +200,7 @@
   flex-direction: row;
   justify-content: flex-start;
   background-color: rgba(255, 255, 255, 1);
+  cursor: pointer;
 }
 .login-register-icons8facebooknovo481 {
   top: 6px;
@@ -228,6 +232,7 @@
   flex-direction: row;
   justify-content: flex-start;
   background-color: rgba(255, 250, 250, 1);
+  cursor: pointer;
 }
 .login-register-icons8googlelogo481 {
   top: 6px;
@@ -259,6 +264,7 @@
   flex-direction: row;
   justify-content: flex-start;
   background-color: rgba(255, 253, 253, 1);
+  cursor: pointer;
 }
 .login-register-icons8macos501 {
   top: 7px;

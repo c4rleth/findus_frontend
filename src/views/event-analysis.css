@@ -19,6 +19,7 @@
   border-color: transparent;
   border-radius: 0px 0px 0px 0px;
   background-color: rgba(243, 243, 243, 1);
+  overflow-y: auto;
 }
 .event-analysis-card {
   top: 480px;
@@ -249,11 +250,10 @@
 .event-analysis-icons {
   width: 40px;
   height: 40px;
-  z-index: 3;
   position: relative;
   box-sizing: border-box;
-  margin-right: 0;
-  margin-bottom: 0;
+  cursor: pointer;
+
 }
 .event-analysis-header {
   top: 26px;
@@ -307,6 +307,7 @@
   height: 24px;
   position: absolute;
   box-sizing: border-box;
+  cursor: pointer;
 }
 .event-analysis-card1 {
   top: 103px;
@@ -420,6 +421,7 @@
   height: 40px;
   position: relative;
   box-sizing: border-box;
+  cursor: pointer;
 }
 .event-analysis-cardbody1 {
   display: flex;

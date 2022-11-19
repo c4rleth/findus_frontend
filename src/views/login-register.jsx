@@ -9,7 +9,7 @@ const LoginRegister = (props) => {
   return (
     <div className="login-register-container">
       <Helmet>
-        <title>LoginRegister - Active Silver Baboon</title>
+        <title>Entrar - Find Us</title>
         <meta
           property="og:title"
           content="LoginRegister - Active Silver Baboon"
@@ -48,12 +48,8 @@ const LoginRegister = (props) => {
         <span className="login-register-text04">
           <span className="login-register-text05">
             Não tem conta ainda? Se cadastre
-            <span
-              dangerouslySetInnerHTML={{
-                __html: ' ',
-              }}
-            />
           </span>
+          <span> </span>
           <span className="login-register-text06">aqui</span>
           <span>.</span>
         </span>

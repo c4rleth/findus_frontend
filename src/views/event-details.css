@@ -6,6 +6,13 @@
   align-items: center;
   flex-direction: column;
 }
+
+.event-all-details {
+  z-index: 400;
+  display: none;
+  
+}
+
 .event-details-i-phone8plus-event-details {
   width: 100%;
   height: 649px;
@@ -22,10 +29,10 @@
   background-size: cover;
   /*background-image: url("/playground_assets/eceb40f7-8446-463d-b39a-9b98282b2b2a-8h19-500w.undefined"); */
 }
+
 .event-details-buttonparticipar {
-  top: 667px;
-  left: 15px;
-  width: 380px;
+  top: 550px;
+  width: 355px;
   height: 52px;
   display: flex;
   padding: 0;
@@ -38,15 +45,17 @@
   border-style: none;
   border-width: 0;
   margin-right: 0;
-  border-radius: 0px 0px 0px 0px;
+  border-radius: 30px;
   margin-bottom: 0;
   flex-direction: row;
   justify-content: flex-start;
+  text-align: center;
   background-color: rgba(249, 207, 108, 1);
+  cursor: pointer;
 }
 .event-details-text {
   top: 14px;
-  left: 146px;
+  left: 130px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
@@ -103,6 +112,7 @@
   justify-content: flex-start;
   text-decoration: none;
   background-color: transparent;
+  cursor: pointer;
 }
 .event-details-rectangle11 {
   top: 0px;
@@ -141,6 +151,8 @@
   flex-direction: row;
   justify-content: flex-start;
   background-color: transparent;
+  overflow-y: scroll;
+  overflow-x: hidden;
 }
 .event-details-info02 {
   top: 340px;
@@ -261,6 +273,12 @@
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+  display: inline-block; 
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 .event-details-text20 {
   top: 286px;

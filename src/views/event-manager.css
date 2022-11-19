@@ -19,7 +19,15 @@
   border-color: transparent;
   border-radius: 0px 0px 0px 0px;
   background-color: rgba(243, 243, 243, 1);
+  overflow-y: auto;
 }
+
+.events-panel {
+  overflow-y: hidden;
+  background-color: pink;
+  width: 100%;
+}
+
 .event-manager-meus-eventos {
   top: 72px;
   left: 44px;
@@ -582,6 +590,14 @@
   flex-direction: row;
   justify-content: flex-start;
   background-color: transparent;
+}
+.event-manager-eventos-vacumm {
+  top: 800px;
+  left: 42px;
+  width: 337px;
+  height: 51px;
+  position: absolute;
+ 
 }
 .event-manager-group6 {
   top: 46px;

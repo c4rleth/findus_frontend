@@ -20,6 +20,12 @@
   border-color: transparent;
   border-radius: 0px 0px 0px 0px;
   background-color: rgba(243, 243, 243, 1);
+  overflow-y: auto;
+}
+.main-profile {
+  overflow-y: hidden;
+  background-color: pink;
+  width: 100%;
 }
 .profile-bxscertification {
   top: 266px;
